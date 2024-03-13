@@ -1,1 +1,1 @@
-[https://codepen.io/satinp/pen/poBJWxx](Grid template areas)
+[Grid template areas](https://codepen.io/satinp/pen/poBJWxx)
