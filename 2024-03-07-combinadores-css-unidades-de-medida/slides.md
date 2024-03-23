@@ -1,7 +1,5 @@
 ### Combinadores
 
-<!-- _footer: pedro.mateus@unicesumar.edu.br -->
-
 > Combinadores de filhos
 
 Representado pelo sinal `>`, é colocado entre dois seletores. O estilo será aplicado apenas aos elementos que são filhos diretos do primeiro seletor.
